@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+}
+.con1{
+    width: 24%;
+    padding: 5px;
+}
+.conteiner{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
+.con1 img{
+    width: 100%;
+}
+.lor{
+    margin-bottom: 40px;
+}
+.link a{
+    text-decoration: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 50px;
+    color: black;
+}
+.link{
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+}
+.con1 h1, .con1 p{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
